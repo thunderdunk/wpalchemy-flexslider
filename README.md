@@ -1,9 +1,9 @@
 
 ## WPAlchemy-Flexslider Combo
 
-### Using WPAlchemy custom metaboxes to create a custom slideshow for your WordPress theme.
+### Uses WPAlchemy custom metaboxes to create a custom slideshow for your WordPress theme.
 
-*This is still in progress and is not in any way stable. Please hold off on any complaints.*
+*This is still in progress and is not in any way stable or useful. Please hold off on any complaints.*
 
 **Must have WPAlchemy setup in theme**
 
