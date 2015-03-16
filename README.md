@@ -1,9 +1,11 @@
 
-## Heptagon Combo Slider
+## WPAlchemy-Flexslider Combo
 
 ### Using WPAlchemy custom metaboxes to create a custom slideshow for your WordPress theme.
 
-** Must have WPAlchemy setup in theme **
+*This is still in progress and is not in any way stable. Please hold off on any complaints.*
+
+**Must have WPAlchemy setup in theme**
 
 This all depends on having WPAlchemy in use in your theme. 
 
